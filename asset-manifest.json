@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/devi-portfolio/static/css/main.77bc1c26.chunk.css",
+    "main.js": "/devi-portfolio/static/js/main.3dc32ec1.chunk.js",
+    "main.js.map": "/devi-portfolio/static/js/main.3dc32ec1.chunk.js.map",
+    "runtime-main.js": "/devi-portfolio/static/js/runtime-main.02a64165.js",
+    "runtime-main.js.map": "/devi-portfolio/static/js/runtime-main.02a64165.js.map",
+    "static/css/2.def00553.chunk.css": "/devi-portfolio/static/css/2.def00553.chunk.css",
+    "static/js/2.eee39aa9.chunk.js": "/devi-portfolio/static/js/2.eee39aa9.chunk.js",
+    "static/js/2.eee39aa9.chunk.js.map": "/devi-portfolio/static/js/2.eee39aa9.chunk.js.map",
+    "index.html": "/devi-portfolio/index.html",
+    "precache-manifest.40003ffa78ed1d8235e7ee90f1753e31.js": "/devi-portfolio/precache-manifest.40003ffa78ed1d8235e7ee90f1753e31.js",
+    "service-worker.js": "/devi-portfolio/service-worker.js",
+    "static/css/2.def00553.chunk.css.map": "/devi-portfolio/static/css/2.def00553.chunk.css.map",
+    "static/css/main.77bc1c26.chunk.css.map": "/devi-portfolio/static/css/main.77bc1c26.chunk.css.map",
+    "static/js/2.eee39aa9.chunk.js.LICENSE.txt": "/devi-portfolio/static/js/2.eee39aa9.chunk.js.LICENSE.txt",
+    "static/media/devi.jpg": "/devi-portfolio/static/media/devi.876996a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02a64165.js",
+    "static/css/2.def00553.chunk.css",
+    "static/js/2.eee39aa9.chunk.js",
+    "static/css/main.77bc1c26.chunk.css",
+    "static/js/main.3dc32ec1.chunk.js"
+  ]
+}
